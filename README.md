@@ -1,6 +1,7 @@
 
 
-![Menu Jogo dos Prisioneiros] (https://github.com/user-attachments/assets/25ca2bf0-a050-422b-a4d2-0750e28c2e26)
+![Menu Jogo dos Prisioneiros] <img width="1871" height="908" alt="prisioneiro_versao5" src="https://github.com/user-attachments/assets/4f537ef5-cae9-4e39-837c-043f292b47da" />
+
 ![Modo Difícil] <img width="1871" height="916" alt="prisioneiro_modo_hard" src="https://github.com/user-attachments/assets/3edb36a6-5b83-4e3a-a300-8a2cc5f7ff5e" />
 
 
